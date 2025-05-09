@@ -1,67 +1,66 @@
-export const NAME = 'Muhammad Osama Javaid';
+export const NAME = 'Adasrh Sanjivan Waghmare';
 
-export const DESIGNATION = `MERN Stack Developer | Open Source Contributor | Tech Blogger`;
+export const DESIGNATION = `FULL-STACK DEVELOPER / FREELANCER `;
 
 export const DETAILS = {
-  Residence: 'Pakistan',
-  City: 'Peshawar',
-  Age: '23',
+  Residence: 'India',
+  City: 'Pune',
+  Age: '25',
 };
 
 export const SKILLS = [
   {
-    title: 'MERN Stack Developer',
-    level: '75%',
+    title: 'Web Developer',
+    level: '90%',
   },
   {
-    title: 'React Developer',
-    level: '91%',
+    title: 'PHP Laravel Developer',
+    level: '70%',
   },
   // {
   //   title: 'Desktop Application Developer',
   //   level: '75%',
   // },
   {
-    title: 'Backend Developer',
-    level: '54%',
+    title: 'Web Application Developer',
+    level: '85%',
   },
   {
-    title: 'Technical Blogger',
-    level: '83%',
+    title: 'Technical',
+    level: '95%',
   },
 ];
 
 export const TECH_STACK = [
   'JavaScript',
-  'ReactJS',
+  'PHP',
+  'Laravel',
   'NextJS',
-  'TypeScript',
-  'NodeJS',
-  'Redux',
-  'Zustand',
+  'HTML',
+  'Bootstrap',
+  'Tailwind CSS',
+  'ReatJS',
   'CSS',
-  'SCSS',
-  'TailwindCSS',
-  'Ant Design',
-  'Material UI',
-  'Next UI',
-  'REST API',
-  'MongoDB',
+  'NodeJS',
   'MySQL',
-  'Git',
-  'GitHub',
-  'Jira',
   'Figma',
-  'Adobe XD',
+  'Wordpress',
+  'GitHub',
+  'Webflow',
+  'CodeIgniter',
+  
+
+
+
 ];
 
 export const CONTACTS = {
-  EMAIL: 'iosamajavaid@gmail.com',
-  PHONE: '+923159591822',
+  EMAIL: 'waghmareadarsh0122@gmail.com',
+  PHONE: '+9136211332',
 };
 export const SOCIAL_LINKS = {
-  GITHUB: 'https://github.com/osamajavaid',
-  LINKEDIN: 'https://www.linkedin.com/in/iosamajavaid/',
-  TWITTER: 'https://twitter.com/iosamajavaid',
-  FACEBOOK: 'https://www.facebook.com/iosamajavaid',
+  GITHUB: 'https://github.com/Adarshswagh',
+  LINKEDIN: 'https://www.linkedin.com/in/adarsh-waghmare-936696207/',
+  TWITTER: 'https://twitter.com/iAdarshjavaid',
+  FACEBOOK: 'https://www.facebook.com/iAdarshjavaid',
 };
