@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   
   ![GitHub repo size](https://img.shields.io/github/repo-size/Adarshjavaid/portfolio)
   ![GitHub stars](https://img.shields.io/github/stars/Adarshjavaid/portfolio?style=social)
@@ -52,4 +52,4 @@ If you want to contact with me you can reach me at [X](https://www.x.com/iAdarsh
 
 ### License
 
-This project is **free to use** and does not contains any license.
+This project is **free to use** and does not contains any license. -->
